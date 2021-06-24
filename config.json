@@ -1,0 +1,17 @@
+{
+"shortcuts": [
+	{
+	"shortcut": "ctrl+win+b",
+	"destination": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+	},
+	{
+	"shortcut": "ctrl+win+a",
+	"destination": "D:\\Frosty\\FrostyModManager.exe"
+	},
+	{
+	"shortcut": "win+enter",
+	"destination": "D:\\wt"
+	}
+
+	]
+}
