@@ -1,6 +1,6 @@
 # Shorty
 
-Shorty is a simple and lightweight script that makes it possible to create shortcuts for starting your.
+Shorty is a simple and lightweight script that makes it possible to create key-shortcuts which open your favourite programs.
 
 ## Configuraion
 
